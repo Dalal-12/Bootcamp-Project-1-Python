@@ -1,21 +1,20 @@
 # Project Title
 
-borrowed management system 
+Borrowing Books Management System 
 
 ## Description
 
-it is a command-line project that connected with Database , the DB stored the available books in the library that allowed to borrowed.
-and users.
+it is a command-line program connected to the Database, the DB stores the available books in the library that are allowed to be borrowed,
+and the user's information.
 the system has the following features:
 
 - Adding user to DB
-- Retrive the user information from the DB
-- complete the borrowing process
-- Return the borrowe books
-- print a report of Borrowed books
+- Retrieve the user information from the DB
+- complete the borrowing process if the conditions are matched.
+- Return the borrowed books
+- print a report on Borrowed books
 
-in this project I use tree libraries : sqlit3 - datetime - PrettyTables  
-
+in this project, I use three libraries: sqlit3 - datetime - PrettyTables  
 
 
 
